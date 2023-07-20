@@ -17,7 +17,6 @@ public class HelloWorld {
     }
     public static void testMethod(){
           System.out.println("Test Method");
-          System.out.println("Test Method");
     }
 
 }
